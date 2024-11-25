@@ -106,3 +106,13 @@ python predict_test.py
 You can test the deployed service using the following URL.
 
 [https://midterm-project-xw26.onrender.com/predict](https://midterm-project-xw26.onrender.com/predict).
+
+## Conclusion.
+
+This project demonstrates a simple and effective way to deploy a machine learning model as a web service using Flask and Docker. The API provides predictions on whether a person's annual income exceeds $50K based on demographic and financial data, making it a valuable tool for various applications like targeted marketing and risk assessment.
+
+Feel free to explore the deployed service and use the provided Docker setup to test the application locally or on other platforms.
+
+---
+
+For questions or suggestions, let's discuss. Obrigado.
